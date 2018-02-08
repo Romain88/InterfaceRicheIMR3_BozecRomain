@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Video Enrichie</string>
+    <string name="pathVideo">https://ia801406.us.archive.org/32/items/Route_66_-_an_American_badDream/Route_66_-_an_American_badDream_512kb.mp4 </string>
+    <string name="progressTitle">Chargement</string>
+    <string name="progressMessage">Route_66_-_an_American_badDream</string>
+    <string name="JSONTitle">Chapters</string>
+    <string name="JSONInfoTitle">Film</string>
+    <string name="JSONWaypoint">Waypoints</string>
+    <string name="JSON_LAT">lat</string>
+    <string name="JSON_LONG">lng</string>
+    <string name="JSON_LABEL">label</string>
+    <string name="JSON_TIMESTAMP">timestamp</string>
+    <string name="synopsis">synopsis_url</string>
+    <string name="ChapterPos">pos</string>
+    <string name="ChapterTitle">title</string>
+</resources>
